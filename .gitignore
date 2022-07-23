@@ -7,3 +7,7 @@ checkpoints/
 venv/
 .idea/
 wandb/
+.gitignore
+
+infer_acc/*.engine
+infer_acc/*.onnx
